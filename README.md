@@ -114,7 +114,7 @@ DaisyUI
 Zustand
 
 🔗 Links
-🚀 Live Demo: https://convosphere-3mhi.onrender.com
+🚀 Live Demo: convosphere-3mhi.onrender.com
 
 ⚙️ Backend Repo: /backend
 
