@@ -135,9 +135,7 @@ Customize tailwind.config.js for DaisyUI themes and setup Zustand store in src/s
 
 ## 📁 Links
 
-- 🔴 [Live Demo](https://convosphere-3mhi.onrender.com)
-- 🖥 [Frontend Repo](/frontend)
-- 🧠 [Backend Repo](/backend)
+📌 [Live Demo](https://convosphere-3mhi.onrender.com)
 
 ---
 
